@@ -6,6 +6,11 @@ This repo provides the codes for all the models introduced in paper together wit
 
 The current test accuracy on VLR CIFAR10 = 79.90%.
 
+## Datasets
+
+- CIFAR10
+- SVHN
+
 ## Performance
 
 <table>
