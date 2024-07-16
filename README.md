@@ -6,6 +6,14 @@ This repo provides the codes for all the models introduced in paper together wit
 
 The current test accuracy on VLR CIFAR10 = 79.90%.
 
+## Dependencies
+
+The codes were executed with the following packages,
+- Python 3.9
+- Pytorch 2.1.2
+- Torchvision 0.16.2
+- CUDA 11.8
+
 ## Datasets
 
 - CIFAR10
