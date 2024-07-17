@@ -17,16 +17,16 @@ The codes were executed with the following packages,
 ## Training
 
  ```
-python spatial_baseline_C4K8D24.py --dataset cifar10 --batch_size 32
+python spatial_baseline_C4K8D24.py --dataset cifar10 --batch_size 64
  ```
  ```
-python combined_baseline_C4K8D24.py --dataset cifar10 --batch_size 32
+python combined_baseline_C4K8D24.py --dataset cifar10 --batch_size 64
  ```
  ```
-python spatial_deep_C4K10D32.py --dataset cifar10 --batch_size 32
+python spatial_deep_C4K10D32.py --dataset cifar10 --batch_size 64
  ```
  ```
-python combined_deep_C4K10D32.py --dataset cifar10 --batch_size 32
+python combined_deep_C4K10D32.py --dataset cifar10 --batch_size 64
  ```
 
 ## Datasets
