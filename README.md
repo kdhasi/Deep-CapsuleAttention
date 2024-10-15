@@ -92,5 +92,16 @@ python combined_deep_C4K10D32.py --dataset cifar10 --batch_size 64
   </tr>
 </table>
 
+## Citation
 
+If you find this work useful, please cite the following paper:
 
+```tex
+@article{dewasurendra2024deep,
+  title={Deep Hybrid Architecture for Very Low-Resolution Image Classification Using Capsule Attention},
+  author={Dewasurendra, Hasindu and Kim, Taejoon},
+  journal={IEEE Access},
+  year={2024},
+  publisher={IEEE}
+}
+```
